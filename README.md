@@ -1,6 +1,6 @@
 ## Olá, eu sou a Luana Desenvolvedora Web Full-Stack e Surfista nas horas vagas :)
 
-<div align="center">
+<div>
   <a href="https://github.com/luanamonero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanamonero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamonero&layout=compact&langs_count=7&theme=dracula"/>
