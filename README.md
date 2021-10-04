@@ -1,4 +1,9 @@
-## Olá, eu sou a Luana Desenvolvedora Web Full-Stack e Surfista nas horas vagas :)
+## Olá, eu sou a Luana :stuck_out_tongue_winking_eye:
+<div>
+  <h4>Estudante de Desenvolvimento Web Full-Stack na TRYBE :computer:</h4>
+  <h4>Surfista nas horas vagas :surfing_woman:	</h4> 
+</div>
+
 
 <img align="center" alt="Luana-Surf" width="100%" height="320" src="https://raw.githubusercontent.com/luanamonero/luanamonero/main/header.png">
   
@@ -9,10 +14,10 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamonero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
