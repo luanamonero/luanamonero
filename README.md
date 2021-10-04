@@ -1,6 +1,6 @@
 ## Olá, eu sou a Luana Desenvolvedora Web Full-Stack e Surfista nas horas vagas :)
 
-<img align="center" alt="Luana-Surf" width="100%" height="350" src="https://raw.githubusercontent.com/luanamonero/luanamonero/main/header.png">
+<img align="center" alt="Luana-Surf" width="100%" height="320" src="https://raw.githubusercontent.com/luanamonero/luanamonero/main/header.png">
   
   ##
 <div align="center">
