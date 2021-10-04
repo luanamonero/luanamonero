@@ -1,5 +1,8 @@
 ## Olá, eu sou a Luana Desenvolvedora Web Full-Stack e Surfista nas horas vagas :)
 
+<img align="center" alt="Luana-Surf" width="100%" height="400" src="https://raw.githubusercontent.com/luanamonero/luanamonero/main/header.png">
+  
+  ##
 <div align="center">
   <a href="https://github.com/luanamonero">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luanamonero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,9 +16,7 @@
 </div>
   
   ##
- <img align="center" alt="Luana-Surf" width="100%" height="400" src="https://raw.githubusercontent.com/luanamonero/luanamonero/main/header.png">
-  
-  ##
+
 <div align="center">
   <a href = "mailto:luanabragaaa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/luanamb2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
